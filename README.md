@@ -2,7 +2,8 @@
 
 A warm, pixel-art inspired dark theme for Visual Studio Code — designed with glowing ember syntax, retro dashboard vibes, and soothing tones for long coding sessions.
 
-![screenshot](screenshots/pixel-dark-preview.png)
+![Pixel Dark Preview](./screenshots/pixel-dark-preview.png)
+
 
 ## 🚀 Features
 
