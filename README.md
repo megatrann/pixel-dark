@@ -1,30 +1,24 @@
-# Pixel Dark — VS Code Theme
+# 🌒 Pixel Dark - VS Code Theme
 
-Pixel Dark is a warm, pixel-art inspired **dark theme** for Visual Studio Code.  
-It combines an ember-glow color palette with retro dashboard vibes for a unique coding experience that’s easy on the eyes.
+A warm, pixel-art inspired dark theme for Visual Studio Code — designed with glowing ember syntax, retro dashboard vibes, and soothing tones for long coding sessions.
 
-## Features
+![screenshot](screenshots/pixel-dark-preview.png)
 
-- Soft, balanced dark background for low eye strain  
-- Warm syntax colors inspired by pixel art and ember glows  
-- Clear contrast and subtle highlights  
-- Works well in both bright and dim environments
+## 🚀 Features
 
-## Installation
+- Ember-glow syntax highlighting
+- Optimized for readability & low-eye strain
+- Smooth contrast for strings, functions, variables, and comments
 
-1. Clone this repository or download the VSIX package  
-2. In VS Code, open the Extensions sidebar → click the three dots menu → “Install from VSIX...”  
-3. Select the `.vsix` file to install
+## 📦 Installation
 
-## Usage
+1. Go to the [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=SithijaMeghana.pixel-dark)
+2. Click **Install** or use `ext install SithijaMeghana.pixel-dark` in VS Code
 
-- After installing, open the Command Palette (`Ctrl+Shift+P` or `Cmd+Shift+P`)  
-- Search for “Color Theme” and select **Pixel Dark**  
+## 💡 Feedback & Contributions
 
-## Development
+Suggestions? PRs? Issues? All welcome!
 
-To build and test the theme locally:
+---
 
-```bash
-npm install
-code .
+🖤 Created by [@megatrann](https://github.com/megatrann)
